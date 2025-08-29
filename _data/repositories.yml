@@ -1,12 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - karanratra
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - karanratra/multiwoven
+  - karanratra/cloudquery
+  - karanratra/kafka-connect-elasticsearch
+  - karanratra/kafka-elasticsearch-consumer
+  - karanratra/terraform-azurerm-service-bus
+  - karanratra/azure-sdk-for-java
+  - karanratra/azure-cosmosdb-java
+  - karanratra/azure-service-bus
+  - karanratra/azure-documentdb-changefeedprocessor-java

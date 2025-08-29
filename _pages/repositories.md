@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+title: Repositories
+description: <b>A curated set of my open-source projects and contributions, spanning data pipelines, distributed systems, and API integrations — showcasing practical solutions in Kafka, Elasticsearch, ELT frameworks, and cloud-native engineering. </b>
 nav: true
 nav_order: 3
 ---
@@ -15,7 +15,7 @@ nav_order: 3
     {% include repository/repo_user.html username=user %}
   {% endfor %}
 </div>
-
+4
 ---
 
 {% if site.repo_trophies.enabled %}

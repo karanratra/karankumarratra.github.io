@@ -1,17 +1,18 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: "<a href='https://tech.walmart.com/content/walmart-global-tech/en_us.html' target='_blank'>Walmart Global Tech</a> · Sunnyvale, CA
+<p><b>Innovative E-Commerce Systems Architect and Technology Leader in Retail Technology Innovation </b></p>"
+
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false # crops the image to make it c`ircular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Driving Scalable Retail Innovation</p>
+
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
