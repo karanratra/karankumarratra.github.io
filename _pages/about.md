@@ -19,6 +19,22 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+Karan Kumar Ratra is a **Senior Engineering Leader at Walmart Global Tech**, where he leads globally distributed engineering teams building high-throughput, event-driven systems for the world’s largest retailer. With more than **16 years of experience** across **e-commerce, fintech, and telecom**, he has architected and scaled platforms that handle **100M+ daily messages** and power mission-critical retail operations.
+
+
+Over the course of his career, Karan has delivered transformative technology initiatives:
+
+- **Walmart Fulfillment Management System (FMS):** Architected and evolved Walmart’s core fulfillment platform, improving efficiency by 25% and reducing operational costs by 15%.  
+- **PayPal Risk & Compliance Systems:** Built compliance APIs and frameworks that prevented a potential **$10M regulatory fine**, earning him the prestigious **PayPal Golden Envelope Award**.  
+- **Subex Credit Risk Management Platform:** Designed scalable credit risk engines now deployed at Tier-1 and Tier-2 telecom operators worldwide.  
+
+Karan is also recognized as a **thought leader and mentor**:  
+- **Awards:** Walmart Impact Award 2024, multiple Walmart Excellence Awards, PayPal Golden Envelope Award, eBay Skunkworks Hackathon Winner, and more.  
+- **Mentorship & Community:** Top 1% Mentor on ADPList, Judge and Mentor at global hackathons including HackMIT, HackHarvard, and NASA Space Apps Challenge.  
+- **Scholarship & Recognition:** Senior IEEE Member, Distinguished Fellow of the Soft Computing Research Society (SCRS), Raptor Fellow, and Globee Award Winner (Technology Innovator, Engineering Excellence).
+
+He is passionate about **scalable distributed systems, event-driven architectures, and AI-driven innovation in retail technology**. Beyond his technical expertise, Karan focuses on **mentorship, cross-functional leadership, and fostering engineering excellence** to deliver measurable business impact.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
