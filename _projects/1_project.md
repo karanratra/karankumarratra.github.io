@@ -1,10 +1,13 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: IEEE Senior Member
+description: Recognized by IEEE for significant contributions to engineering, research, and technical leadership.
+img: assets/img/IEEE.jpg
 importance: 1
 category: work
+# add these:
+certificate_label: "View Certificate"
+certificate: IEEE_Membership_Card.pdf
 ---
 
 Every project has a beautiful feature showcase page.

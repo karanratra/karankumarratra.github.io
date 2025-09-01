@@ -91,6 +91,15 @@ blockquote {
     color: var(--global-text-color);
   }
 
+  .card .btn {
+    display: block;
+    margin: 12px auto 0;  /* top margin 10px, auto left/right */
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
   .card-item {
     width: auto;
     margin-bottom: 10px;

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
+title: Memberships
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: <b> Affiliations with leading global engineering and research societies. </b>
 nav: true
 nav_order: 2
 display_categories: [work, fun]
