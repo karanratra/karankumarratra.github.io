@@ -10,66 +10,103 @@ certificate_label: "View Certificate"
 certificate: IEEE_Membership_Card.pdf
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<h4> <b> 🏅 IEEE Senior Member  </b> </h4>
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Recognized as an IEEE Senior Member for my professional excellence and leadership in systems architecture, e-commerce engineering, and digital transformation.
 
+This distinction is held by fewer than 10% of IEEE’s 400,000+ members globally.
+
+<h4> <b> 👨‍🔬 IEEE Memberships & Contributions </b> </h4>
+
+As an active and passionate member of the Institute of Electrical and Electronics Engineers (IEEE), I have consistently contributed to the global engineering community through various prestigious roles. My involvement spans technical reviews, judging panels, paper authorship, and leadership in special interest groups within the IEEE ecosystem.
+
+<!-- <div class="caption">
+    Recognized as an IEEE Senior Member for my professional excellence and leadership in systems architecture, e-commerce engineering, and digital transformation.
+    This distinction is held by fewer than 10% of IEEE’s 400,000+ members globally.
+</div> -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/IEEE_TPC_Roles.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+
+
+<div class="caption">
+    Recent IEEE Technical Program Committee (TPC) Roles
+</div>
+
+<h4> <b>🧑‍⚖️ IEEE Technical Program Committee (TPC) Roles </b> </h4>
+
+IEEE WISPNET 2025 – Reviewer, track: SAFE-ML (Secure AI For Edge – Machine Learning)
+
+IEEE ICST 2025 (Naples) – Paper Reviewer (Software Testing and Automation)
+
+IEEE PEDS 2025 (Penang, Malaysia) – Reviewer for Power Electronics & Design Methodologies
+
+IEEE DMC 2025 – Reviewer for the Design Methodologies Conference (AI, ML, Cybersecurity tracks)
+
+IEEE ACROSET 2025 – Reviewer and Session Judge, evaluating papers on Social Computing & Retail AI
 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/IEEE_Senior_Member.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/IEEE_Sociteies.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    My IEEE Contributions.
 </div>
 
+<h4> <b> ✍️ IEEE Authored Research </b> </h4>
 
-The code is simple.
+I have published and reviewed IEEE conference papers in areas including:
+
+AI-Driven Hybrid Edge-Cloud Architecture for Big Data Analytics
+
+Secure API Gateways for Microservices
+
+Real-Time Event-Driven Fulfillment in Global E-Commerce Systems
+
+These papers contribute to the academic discourse on scalable infrastructure, data security, and intelligent systems design.
+
+<h4> <b> 📝 IEEE Journal & Conference Paper Reviewer </b> </h4>
+
+I have reviewed numerous academic submissions for IEEE-affiliated journals and conferences, ensuring technical accuracy, innovation, and practical relevance. As a reviewer, I focus on:
+
+Architecture soundness
+
+Real-world application
+
+Scalability and performance metrics
+
+Security and compliance
+
+<h4> <b> 🏛️ IEEE Societies & Memberships</b> </h4>
+
+I am a proud member of multiple IEEE societies that align with my interdisciplinary work:
+
+IEEE Computer Society
+
+IEEE Systems Council
+
+IEEE Power Electronics Society (PELS)
+
+IEEE Communications Society
+
+IEEE Industrial Electronics Society
+
+
+<!-- The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Here's the code for the last row of images above: -->
 
-{% raw %}
+<!-- {% raw %}
 ```html
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -80,4 +117,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->
