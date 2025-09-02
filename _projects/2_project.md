@@ -1,80 +1,49 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: SCRS Distinguished Fellow
+description: Recognized by SCRS for outstanding contributions to software engineering, systems architecture, and digital transformation through research, leadership, and global mentorship.
+img: assets/img/SCRS_LOGO.jpg
 importance: 2
 category: work
+certificate_label: "View Certificate"
+certificate: SCRS_Felllow_Certificate.pdf
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<h4> <b> 🏅 SCRS Distinguished Fellow  </b> </h4>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Recognized by SCRS for outstanding contributions to software engineering, systems architecture, and digital transformation through research, leadership, and global mentorship.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+As a Distinguished Fellow of the Soft Computing Research Society (SCRS), I am honored to be part of an elite group of global innovators and technical leaders. This prestigious recognition reflects my sustained impact on the field of software engineering and emerging computing paradigms.
+
+<h4> <b> 🧠 Thought Leadership & Innovation </b> </h4>
+
+Over the years, I have architected scalable systems, mentored future engineers, and advanced the discourse around AI-driven systems, distributed architectures, and e-commerce technologies. My involvement with SCRS includes publishing scholarly articles, participating in peer review panels, and representing the society at international events.
+
+<h4> <b> 🌍 Global Mentorship & Community Involvement </b> </h4>
+
+Through initiatives such as ADPList and university hackathons like HackMIT and HackHarvard, I’ve mentored 1,000+ mentees globally. SCRS recognized my efforts in democratizing technical knowledge and fostering engineering excellence across continents.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/SCRS_Fellow.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+   Recognized by the Soft Computing Research Society for excellence in innovation, research, and cutting-edge technology.
 </div>
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+This distinction not only honors past contributions but motivates continued service in shaping the future of intelligent systems and knowledge-driven ecosystems.
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+“सा विद्या या विमुक्तये” — True knowledge liberates.
+
+<h4> <b> 🔍 Research Focus Areas </b> </h4>
+
+Scalable Microservices Architecture
+
+Cloud-native and Edge Computing Systems
+
+Generative AI in Retail and Risk Platforms
+
+Secure API Gateways and Governance
+

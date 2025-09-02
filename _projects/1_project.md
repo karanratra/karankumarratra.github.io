@@ -34,7 +34,7 @@ As an active and passionate member of the Institute of Electrical and Electronic
 
 
 <div class="caption">
-    Recent IEEE Technical Program Committee (TPC) Roles
+    RecentIEEE Technical Program Committee (TPC) Roles
 </div>
 
 <h4> <b>🧑‍⚖️ IEEE Technical Program Committee (TPC) Roles </b> </h4>
