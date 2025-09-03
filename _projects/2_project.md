@@ -4,7 +4,7 @@ title: SCRS Distinguished Fellow
 description: Recognized by SCRS for outstanding contributions to software engineering, systems architecture, and digital transformation through research, leadership, and global mentorship.
 img: assets/img/SCRS_LOGO.jpg
 importance: 2
-category: work
+category: Memberships
 certificate_label: "View Certificate"
 certificate: SCRS_Felllow_Certificate.pdf
 ---

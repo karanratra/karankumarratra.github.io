@@ -1,81 +1,37 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: SAS Eminent Fellow
+description: Recognized by the Scholars Academic and Scientific Society (SAS) for distinguished contributions to software engineering, academic leadership, and global mentorship in the scientific community.
+img: assets/img/SAS-Eminent-Fellow.png
+importance: 1
+category: Memberships
+# add these:
+certificate_label: "View Certificate"
+certificate: SAS_Eminent_Fellow_Certificate.pdf
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<h4> <b> 🏅 SAS Eminent Fellow </b> </h4>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Recognized by the Scholars Academic and Scientific Society (SAS) for distinguished contributions to software engineering, academic leadership, and global mentorship in the scientific community.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/SAS-Membership-Details.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    SAS Society’s Global Impact: Over 260 Eminent Fellows and 700+ Fellows driving innovation, research, and academic excellence across the scientific community.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+As an Eminent Fellow of the Scholars Academic and Scientific Society (SAS), I am honored to be recognized for my outstanding contributions to the advancement of science, engineering, and education. The SAS Society highlights researchers and technologists who have made a global impact through knowledge sharing, innovation, and leadership.
+
+<h4>My involvement with SAS reflects a commitment to:</h4>
+<ul>
+  <li><strong>Advancing cutting-edge practices</strong> in software systems architecture.</li>
+  <li><strong>Promoting academic-industry collaboration.</strong> through publications and lectures.</li>
+  <li><strong>Mentoring aspiring researchers</strong> and early-career professionals across borders.</li>
+  <li><strong>Participating in global scientific communities.</strong> as a reviewer, speaker, and technical advisor.</li>
+  <li>This fellowship stands as a <strong>testament to my dedication</strong> to building a more connected and intellectually vibrant scientific ecosystem.</li>
+</ul>
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}

@@ -4,7 +4,7 @@ title: IEEE Senior Member
 description: Recognized by IEEE for significant contributions to engineering, research, and technical leadership.
 img: assets/img/IEEE.jpg
 importance: 1
-category: work
+category: Memberships
 # add these:
 certificate_label: "View Certificate"
 certificate: IEEE_Membership_Card.pdf
@@ -34,20 +34,17 @@ As an active and passionate member of the Institute of Electrical and Electronic
 
 
 <div class="caption">
-    RecentIEEE Technical Program Committee (TPC) Roles
+    Recent IEEE Technical Program Committee (TPC) Roles
 </div>
 
-<h4> <b>🧑‍⚖️ IEEE Technical Program Committee (TPC) Roles </b> </h4>
-
-IEEE WISPNET 2025 – Reviewer, track: SAFE-ML (Secure AI For Edge – Machine Learning)
-
-IEEE ICST 2025 (Naples) – Paper Reviewer (Software Testing and Automation)
-
-IEEE PEDS 2025 (Penang, Malaysia) – Reviewer for Power Electronics & Design Methodologies
-
-IEEE DMC 2025 – Reviewer for the Design Methodologies Conference (AI, ML, Cybersecurity tracks)
-
-IEEE ACROSET 2025 – Reviewer and Session Judge, evaluating papers on Social Computing & Retail AI
+<h4> <b> 🧑‍💻 IEEE Reviewer & Technical Program Committee (TPC) Contributions – 2025 </b> </h4>
+<ul>
+  <li><strong>IEEE WISPNET 2025</strong> – Reviewer, Track: <em>SAFE-ML (Secure AI for Edge – Machine Learning)</em></li>
+  <li><strong>IEEE ICST 2025 (Naples)</strong> – Paper Reviewer, Track: <em>Software Testing and Automation</em></li>
+  <li><strong>IEEE PEDS 2025 (Penang, Malaysia)</strong> – Reviewer, Track: <em>Power Electronics & Design Methodologies</em></li>
+  <li><strong>IEEE DMC 2025</strong> – Reviewer for the <em>Design Methodologies Conference</em> (AI, ML, Cybersecurity Tracks)</li>
+  <li><strong>IEEE ACROSET 2025</strong> – Reviewer and Session Judge, evaluating papers on <em>Social Computing & Retail AI</em></li>
+</ul>
 
 
 <div class="row justify-content-sm-center">
@@ -66,11 +63,20 @@ IEEE ACROSET 2025 – Reviewer and Session Judge, evaluating papers on Social Co
 
 I have published and reviewed IEEE conference papers in areas including:
 
-AI-Driven Hybrid Edge-Cloud Architecture for Big Data Analytics
-
-Secure API Gateways for Microservices
-
-Real-Time Event-Driven Fulfillment in Global E-Commerce Systems
+<ul>
+  <li>
+    <strong>AI-Driven Hybrid Edge-Cloud Architecture for Big Data Analytics</strong><br>
+    Exploring scalable frameworks for integrating AI models across edge and cloud to process and analyze massive data streams in real time.
+  </li>
+  <li>
+    <strong>Secure API Gateways for Microservices</strong><br>
+    Designing resilient and intelligent API gateways that enforce zero-trust security, anomaly detection, and traffic optimization in distributed systems.
+  </li>
+  <li>
+    <strong>Real-Time Event-Driven Fulfillment in Global E-Commerce Systems</strong><br>
+    Architecting high-throughput event pipelines for orchestrating inventory, shipping, and customer workflows with global scalability.
+  </li>
+</ul>
 
 These papers contribute to the academic discourse on scalable infrastructure, data security, and intelligent systems design.
 
@@ -78,27 +84,52 @@ These papers contribute to the academic discourse on scalable infrastructure, da
 
 I have reviewed numerous academic submissions for IEEE-affiliated journals and conferences, ensuring technical accuracy, innovation, and practical relevance. As a reviewer, I focus on:
 
-Architecture soundness
-
-Real-world application
-
-Scalability and performance metrics
-
-Security and compliance
+<ul>
+  <li>
+    <strong>Architecture Soundness</strong><br>
+    Evaluates how well-structured and technically coherent the system design is, including modularity and maintainability.
+  </li>
+  <li>
+    <strong>Real-World Application</strong><br>
+    Assesses the practical relevance, use cases, and deployability of the solution in industry settings.
+  </li>
+  <li>
+    <strong>Scalability and Performance Metrics</strong><br>
+    Measures the system’s ability to scale efficiently and perform under various loads and environments.
+  </li>
+  <li>
+    <strong>Security and Compliance</strong><br>
+    Examines the robustness of security practices and alignment with regulatory standards and best practices.
+  </li>
+</ul>
 
 <h4> <b> 🏛️ IEEE Societies & Memberships</b> </h4>
 
 I am a proud member of multiple IEEE societies that align with my interdisciplinary work:
 
-IEEE Computer Society
+<ul>
+  <li>
+    <strong>IEEE Computer Society</strong><br>
+    A global community advancing computer science, engineering, and technology innovations.
+  </li>
+  <li>
+    <strong>IEEE Systems Council</strong><br>
+    Focuses on interdisciplinary approaches to complex systems and systems engineering practices.
+  </li>
+  <li>
+    <strong>IEEE Power Electronics Society (PELS)</strong><br>
+    Dedicated to the development and application of power electronics in industry and research.
+  </li>
+  <li>
+    <strong>IEEE Communications Society</strong><br>
+    Promotes innovations in communications and networking technologies worldwide.
+  </li>
+  <li>
+    <strong>IEEE Industrial Electronics Society</strong><br>
+    Advances industrial and manufacturing applications of electronics, controls, and communications.
+  </li>
+</ul>
 
-IEEE Systems Council
-
-IEEE Power Electronics Society (PELS)
-
-IEEE Communications Society
-
-IEEE Industrial Electronics Society
 
 
 <!-- The code is simple.
