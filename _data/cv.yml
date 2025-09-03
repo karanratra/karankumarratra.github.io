@@ -101,7 +101,7 @@
       description: Multiwoven is an open-source alternative to HighTouch, Census, and RudderStack.
 
 - title: Academic Interests
-  type: nested_list
+  type: time_table
   contents:
     - title: <b> Event-Driven and Distributed Systems </b>
       items:
@@ -121,12 +121,20 @@
         - Bridging research with industry-scale systems at Walmart Global Tech to enhance customer experience and operational efficiency.
 
 - title: Other Interests
-  type: nested_list
+  type: time_table
   contents:
     - title: <b>Professional & Personal Interests</b>
       items:
         - Mentorship & Community Engagement – Mentoring young engineers, judging global hackathons (MIT, Harvard, Standford, NASA Space Apps).
-        - Writing & Knowledge Sharing – Contributing blogs, research articles, and thought leadership on microservices, cloud, and AI.
-        - Reading – Exploring books on leadership, digital transformation, and emerging tech.
-        - Travel – Passion for cultural exploration and discovering global perspectives on technology and innovation.
-        - Fitness & Wellness – Following a plant-based diet, regular workouts, and mindfulness practices.
+    - title: <b>Writing & Knowledge Sharing </b>
+      items:
+        - Contributing blogs, research articles, and thought leadership on microservices, cloud, and AI.
+    - title: <b>Reading</b>
+      items:
+        - Exploring books on leadership, digital transformation, and emerging tech.
+    - title: <b>Travel</b>  
+      items:
+        - Passion for cultural exploration and discovering global perspectives on technology and innovation.
+    - title: <b>Fitness & Wellness</b>
+      items:
+        - Following a plant-based diet, regular workouts, and mindfulness practices.

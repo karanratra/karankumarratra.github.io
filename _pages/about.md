@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Karan Kumar Ratra is a **Senior Engineering Leader at Walmart Global Tech**, where he leads globally distributed engineering teams building high-throughput, event-driven systems for the world’s largest retailer. With more than **16 years of experience** across **e-commerce, fintech, and telecom**, he has architected and scaled platforms that handle **100M+ daily messages** and power mission-critical retail operations.
+**Karan Kumar Ratra** is a **Senior Engineering Leader at Walmart Global Tech**, where he leads globally distributed engineering teams building high-throughput, event-driven systems for the world’s largest retailer. With more than **16 years of experience** across **e-commerce, fintech, and telecom**, he has architected and scaled platforms that handle **100M+ daily messages** and power mission-critical retail operations.
 
 
 Over the course of his career, Karan has delivered transformative technology initiatives:
