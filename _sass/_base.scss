@@ -867,3 +867,123 @@ pre {
     opacity: 1;
   }
 }
+
+/* Equal-height cards with minimal changes */
+.grid-item {
+  display: flex;                /* lets the anchor fill the tile */
+}
+.grid-item > a {
+  display: block;
+  width: 100%;
+}
+
+.card.hoverable {
+  display: flex;                /* card becomes a column */
+  flex-direction: column;
+  height: 100%;                 /* fill the grid item */
+}
+
+.card-body {
+  display: flex;                /* allow internal push-down */
+  flex-direction: column;
+  flex: 1 1 auto;               /* take remaining height */
+}
+
+/* NEW: normalized logo area (keeps card heights consistent even with odd logos) */
+.card-hero {
+  height: 140px;                /* tweak 120–160px to taste */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  margin-bottom: 12px;
+}
+
+/* Most theme figure.html partials render an <img>; contain it without distortion */
+.card-hero img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+/* NEW: footer sits at the bottom of the card */
+.card-footer {
+  margin-top: auto;
+  padding-top: 8px;
+}
+
+/* New: normalized image/logo area */
+.card-hero {
+  height: 140px;              /* tweak this value to balance card height */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  margin-bottom: 12px;
+}
+.card-hero img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+/* --- Compact card layout (like the reference) --- */
+
+/* 1) Smaller logo area so cards don't get tall */
+.card-hero {
+  height: 88px;                 /* was ~140px; make it compact */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+.card-hero img {
+  max-width: 100%;
+  max-height: 64px;             /* cap the logo height */
+  object-fit: contain;
+}
+
+/* 2) Clamp title to 2 lines and keep a consistent block height */
+.card-title {
+  font-size: 1.45rem;           /* slightly smaller headline */
+  line-height: 1.2;
+  margin: 4px 0 8px;
+
+  display: -webkit-box;
+  -webkit-line-clamp: 2;        /* <= limit to 2 lines */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: calc(1.2em * 2);  /* reserve space so rows align */
+}
+
+/* 3) Clamp description to 4 lines */
+.card-text {
+  color: #444;
+  line-height: 1.45;
+
+  display: -webkit-box;
+  -webkit-line-clamp: 4;        /* <= limit to 4 lines */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: calc(1.45em * 4); /* keeps heights consistent row-to-row */
+}
+
+/* 4) Make sure CTA sits at the bottom for perfect alignment */
+.card-body {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+}
+.card-footer {
+  margin-top: auto;
+  padding-top: 10px;
+}
+
+/* 5) Optional: slightly tighter card chrome to match the compact look */
+.card.hoverable {
+  padding: 14px;                /* was 16px; a bit tighter */
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,.06);
+}
+
+
