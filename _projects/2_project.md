@@ -3,7 +3,7 @@ layout: page
 title: SCRS Distinguished Fellow
 description: Recognized by SCRS for outstanding contributions to software engineering, systems architecture, and digital transformation through research, leadership, and global mentorship.
 img: assets/img/SCRS_LOGO.jpg
-importance: 2
+importance: 1
 category: Memberships
 certificate_label: "View Certificate"
 certificate: SCRS_Felllow_Certificate.pdf
@@ -39,11 +39,23 @@ This distinction not only honors past contributions but motivates continued serv
 
 <h4> <b> 🔍 Research Focus Areas </b> </h4>
 
-Scalable Microservices Architecture
+<ul>
+  <li>
+    <strong>Scalable Microservices Architecture</strong><br>
+    Designing decoupled, resilient services with asynchronous communication, observability, and fault tolerance.
+  </li>
+  <li>
+    <strong>Cloud-native and Edge Computing Systems</strong><br>
+    Orchestrating workloads across Kubernetes/serverless and edge nodes for low-latency, high availability.
+  </li>
+  <li>
+    <strong>Generative AI in Retail and Risk Platforms</strong><br>
+    Applying LLMs for personalization, anomaly detection, and real-time fraud/risk insights.
+  </li>
+  <li>
+    <strong>Secure API Gateways and Governance</strong><br>
+    Enforcing zero-trust, authN/Z, rate limiting, and lifecycle policy for compliant API ecosystems.
+  </li>
+</ul>
 
-Cloud-native and Edge Computing Systems
-
-Generative AI in Retail and Risk Platforms
-
-Secure API Gateways and Governance
 
