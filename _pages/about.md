@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "<a href='https://tech.walmart.com/content/walmart-global-tech/en_us.html' target='_blank'>Walmart Global Tech</a> · Sunnyvale, CA
+subtitle: "<a href='https://tech.walmart.com/content/walmart-global-tech/en_us.html' target='_blank'>Walmart Global Tech· Sunnyvale, CA</a> 
 <p><b>Innovative E-Commerce Systems Architect and Technology Leader in Retail Technology </b></p>"
 
 
