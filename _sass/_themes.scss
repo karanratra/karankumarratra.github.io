@@ -15,6 +15,15 @@
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: rgba(0,0,0,.1);
   --global-card-bg-color: #{$white-color};
+  --card-background: #ffffff;
+  --text-normal: #111111;
+  --text-muted: #6c757d;
+  --card-bg: #f9f9f9;
+  --card-text: #111;
+   --card-muted: #555;
+  --vol-card-bg: #ffffff;
+  --vol-card-text: #111111;
+
 
   .fa-sun {
     display : none;
@@ -46,6 +55,14 @@ html[data-theme='dark'] {
   --global-distill-app-color: #{$grey-color-light};
   --global-divider-color: #424246;
   --global-card-bg-color: #{$grey-900};
+  --card-background: #242424;
+  --text-normal: #f1f1f1;
+  --text-muted: #a3a3a3;
+  --card-bg: #1e1e1e;
+  --card-text: #f5f5f5;
+  --card-muted: #aaa;
+  --vol-card-bg: #1f1f1f;
+  --vol-card-text: #f0f0f0;
 
   .fa-sun {
     padding-left: 10px;
