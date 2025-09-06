@@ -43,6 +43,7 @@ layout: default
     {{ content }}
   </article>
 
+  {%- comment -%}
   {%- if site.related_blog_posts.enabled -%}
     {%- if page.related_posts == null or page.related_posts -%}
       {% include related_posts.html %}
@@ -55,5 +56,6 @@ layout: default
   {%- if site.giscus.repo and page.giscus_comments -%}
     {% include giscus.html %}
   {%- endif -%}
-
+  {%- endcomment -%}
+  
 </div>
