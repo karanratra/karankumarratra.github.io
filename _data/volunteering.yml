@@ -11,18 +11,6 @@
   logo: "/assets/img/orgs/nasa.png"
   description: "Mentored and judged global teams working on real-world space, climate, and AI challenges using NASA datasets."
 
-- title: "Judge – HackMIT 2024"
-  organization: "Massachusetts Institute of Technology"
-  year: "2024"
-  logo: "/assets/img/orgs/mit.png"
-  description: "Reviewed projects from 1,500+ participants. Scored submissions on innovation, execution, and social impact."
-
-# MENTORING
-- title: "Top 1% Mentor – ADPList (Engineering)"
-  organization: "ADPList"
-  year: "2025"
-  logo: "/assets/img/orgs/adplist.png"
-  description: "Recognized among Top 1% Mentors worldwide. Delivered 1,000+ minutes of mentorship across 20+ countries."
 
 - title: "Mentor – HackHarvard 2024"
   organization: "Harvard University"
@@ -41,6 +29,45 @@
   year: "2025"
   logo: "/assets/img/orgs/ucla.png"
   description: "As a Judge at LA Hacks, UCLA's premier hackathon, I had the privilege of evaluating innovative projects developed by talented participants."
+ 
+- title: Judge – HackDavis 2025
+  organization: HackDavis
+  year: 2025
+  logo: "/assets/img/orgs/hackdavis-logo.png"
+  description: "Served as a Judge at HackDavis 2025, UC Davis’ premier collegiate hackathon. Evaluated technical projects submitted by students across various domains including sustainability, health, and education. Contributed to finalist selections and provided actionable feedback to student teams."
+  
+- title: "Judge – HackMIT 2024"
+  organization: "Massachusetts Institute of Technology"
+  year: "2024"
+  logo: "/assets/img/orgs/mit.png"
+  description: "Reviewed projects from 1,500+ participants. Scored submissions on innovation, execution, and social impact."
+  
+- title: "Judge – Hackabyte 2024"
+  organization: "The Hack Foundation"
+  year: "2024"
+  logo: "/assets/img/orgs/hackabyte-logo.png"
+  description: "Judged at Hackabyte Summer Hackathon 2024. Evaluated student-led technical projects on innovation, creativity, clarity, and real-world impact across multiple rounds. Participated in finalist Q&A sessions and provided feedback for student learning."
+
+- title: "Mentor & Judge – HackPrinceton 2024"
+  organization: "Princeton University"
+  year: "2024"
+  logo: "/assets/img/orgs/princeton.png"
+  description: "Served as both Mentor and Judge at HackPrinceton 2024. Guided participants on technical strategy and project development, and evaluated hackathon submissions for innovation, execution, and impact."
+
+- title: "Mentor & Judge – CalHacks 11.0"
+  organization: "CalHacks (UC Berkeley)"
+  year: "2024"
+  description: "Mentored and judged at CalHacks 11.0, the world’s largest collegiate hackathon hosted at UC Berkeley. Evaluated over 300 student projects across categories including AI, accessibility, and sustainability. Provided mentorship throughout the event and contributed to finalist selection and awards."
+  logo:  "/assets/img/orgs/calhacks-logo.png"
+
+
+# MENTORING
+- title: "Top 1% Mentor – ADPList (Engineering)"
+  organization: "ADPList"
+  year: "2025"
+  logo: "/assets/img/orgs/adplist.png"
+  description: "Recognized among Top 1% Mentors worldwide. Delivered 1,000+ minutes of mentorship across 20+ countries."
+
 
 # REVIEWING
 - title: "Reviewer – IEEE WISPNet 2025"
