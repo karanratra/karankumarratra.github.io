@@ -7,35 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-<!-- ADPList Booking Widget -->
-<!-- <h2 style="text-align: center; margin-top: 3rem;">Book a Mentorship Session</h2>
-
-<div style="margin: 2rem 0; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 14px rgba(0,0,0,0.1); max-width: 768px; width: 100%; margin-left: auto; margin-right: auto;">
-  <iframe
-    src="https://adplist.org/widgets/single-session?src=karan-kumar-ratra&amp;session=42837-mentorship-session"
-    width="100%"
-    height="500"
-    frameborder="0"
-    scrolling="no"
-    style="border: none;"
-    title="Book a session with Karan Kumar Ratra"
-  ></iframe>
-</div>
-
-<h2 style="text-align: center; margin-top: 2rem;">What Mentees Are Saying</h2> -->
-
-<!-- ADPList Reviews Widget -->
-<!-- <div style="margin: 2rem auto; padding: 16px; height: 496px; box-shadow: rgba(142, 151, 158, 0.15) 0px 4px 19px 0px; border-radius: 16px; overflow: hidden; width: 100%; max-width: 768px;">
-  <iframe
-    src="https://adplist.org/widgets/reviews?src=karan-kumar-ratra"
-    title="ADPList Reviews"
-    width="100%"
-    height="100%"
-    loading="lazy"
-    style="border: 0px;"
-  ></iframe>
-</div> -->
-
 <p style="max-width: 720px; margin: 2rem auto 1rem; text-align: center;">
 Over the years, I’ve had the privilege of contributing to the global tech ecosystem through mentorship, judging, public speaking, and technical program leadership. As a mentor on platforms like <strong>ADPList</strong>, I offer one-on-one guidance to professionals and students navigating career transitions and engineering challenges. I actively serve as a judge for global competitions and awards, and as a <strong>Technical Program Committee (TPC)</strong> reviewer for prestigious conferences under <strong>IEEE</strong>, <strong>Springer</strong>, and other international research bodies — helping shape the future of innovation, one review at a time.
 </p>
