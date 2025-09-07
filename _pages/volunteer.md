@@ -2,7 +2,7 @@
 layout: page
 permalink: /volunteering/
 title: Volunteering
-description: Global contributions through mentoring, judging, and reviewing.
+description: <strong>  Empowering Innovation Worldwide Through Mentoring, Judging, and Speaking. </strong>
 nav: true
 nav_order: 5
 ---
