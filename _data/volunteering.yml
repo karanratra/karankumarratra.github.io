@@ -11,20 +11,13 @@
   logo: "/assets/img/orgs/nasa.png"
   description: "Mentored and judged global teams working on real-world space, climate, and AI challenges using NASA datasets."
 
-
-- title: "Mentor – HackHarvard 2024"
-  organization: "Harvard University"
-  year: "2024"
-  logo: "/assets/img/orgs/harvard.png"
-  description: "Guided students through system design, microservices, and product thinking for impactful hackathon submissions."
-
 - title: "Mentor – TreeHack 2025"
   organization: "Standford University"
   year: "2025"
   logo: "/assets/img/orgs/treehacks.png"
   description: "As a Mentor at TreeHack, Stanford University's premier hackathon, I have dedicated my expertise and time to guiding and inspiring participants."
 
-- title: "Mentor – LA Hacks 2025"
+- title: "Judge – LA Hacks 2025"
   organization: "University of Californa Los Angeles"
   year: "2025"
   logo: "/assets/img/orgs/ucla.png"
@@ -41,12 +34,12 @@
   year: "2024"
   logo: "/assets/img/orgs/mit.png"
   description: "Reviewed projects from 1,500+ participants. Scored submissions on innovation, execution, and social impact."
-  
-- title: "Judge – Hackabyte 2024"
-  organization: "The Hack Foundation"
+
+- title: "Judge – HackHarvard 2024"
+  organization: "Harvard University"
   year: "2024"
-  logo: "/assets/img/orgs/hackabyte-logo.png"
-  description: "Judged at Hackabyte Summer Hackathon 2024. Evaluated student-led technical projects on innovation, creativity, clarity, and real-world impact across multiple rounds. Participated in finalist Q&A sessions and provided feedback for student learning."
+  logo: "/assets/img/orgs/harvard.png"
+  description: "Guided students through system design, microservices, and product thinking for impactful hackathon submissions."
 
 - title: "Mentor & Judge – HackPrinceton 2024"
   organization: "Princeton University"
@@ -54,15 +47,20 @@
   logo: "/assets/img/orgs/princeton.png"
   description: "Served as both Mentor and Judge at HackPrinceton 2024. Guided participants on technical strategy and project development, and evaluated hackathon submissions for innovation, execution, and impact."
 
-- title: "Mentor & Judge – CalHacks 11.0"
+- title: "Mentor & Judge – CalHacks 11.0 2024"
   organization: "CalHacks (UC Berkeley)"
   year: "2024"
   description: "Mentored and judged at CalHacks 11.0, the world’s largest collegiate hackathon hosted at UC Berkeley. Evaluated over 300 student projects across categories including AI, accessibility, and sustainability. Provided mentorship throughout the event and contributed to finalist selection and awards."
   logo:  "/assets/img/orgs/calhacks-logo.png"
 
-
+- title: "Judge – Hackabyte 2024"
+  organization: "The Hack Foundation"
+  year: "2024"
+  logo: "/assets/img/orgs/hackabyte-logo.png"
+  description: "Judged at Hackabyte Summer Hackathon 2024. Evaluated student-led technical projects on innovation, creativity, clarity, and real-world impact across multiple rounds. Participated in finalist Q&A sessions and provided feedback for student learning."
+  
 # MENTORING
-- title: "Top 1% Mentor – ADPList (Engineering)"
+- title: "Top 1% Mentor – ADPList (Engineering) 2025"
   organization: "ADPList"
   year: "2025"
   logo: "/assets/img/orgs/adplist.png"
@@ -83,8 +81,37 @@
   description: "Reviewed research articles on event-driven architecture, scalable microservices, and hybrid cloud orchestration."
 
 # SPEAKING
-- title: "Keynote Speaker – Fremont Youth Commission"
+- title: "Keynote Speaker – Fremont Youth Commission - 2024"
   organization: "City of Fremont, CA"
   year: "2024"
   logo: "/assets/img/orgs/fremont.png"
   description: "Delivered a keynote on resume building, interview prep, and digital leadership for aspiring youth professionals."
+
+
+# - title: HackDavis 2025
+#   organization: UC Davis
+#   year: 2025
+#   description: Judged innovative student projects at the annual UC hackathon.
+#   logo: /assets/img/orgs/volunteering/hackdavis-logo.png
+#   certificate: /assets/img/orgs/volunteering/hackdavis-logo.png
+#   details: |
+#     I participated as a mentor and judge at HackDavis 2025 where I guided students through project ideation and evaluation.
+#   gallery:
+#     - /assets/img/orgs/volunteering/davis-hackathon-1.png
+#     - /assets/img/orgs/volunteering/davis-hackathon.png
+
+- title: HackDavis 2025
+  organization: University of California, Davis
+  year: 2025
+  logo: /assets/img/orgs/volunteering/hackdavis-logo.png
+  description:  Mentored and judged at CalHacks 11.0, the world’s largest collegiate hackathon hosted at UC Berkeley. Evaluated over 300 student projects across categories including AI, accessibility, and sustainability. Provided mentorship throughout the event and contributed to finalist selection and awards
+  details: |
+     Mentored and judged at CalHacks 11.0, the world’s largest collegiate hackathon hosted at UC Berkeley. Evaluated over 300 student projects across categories including AI, accessibility, and sustainability. Provided mentorship throughout the event and contributed to finalist selection and awards
+  download_link: /assets/img/orgs/volunteering/BCS_Certificate.pdf
+  modal_image: /assets/img/orgs/volunteering/hackdavis-logo.png
+  gallery:
+    - /assets/img/orgs/volunteering/davis-hackathon-1.png
+    - /assets/img/orgs/volunteering/davis-hackathon.png
+    - /assets/img/orgs/volunteering/davis-hackathon-1.png
+    - /assets/img/orgs/volunteering/davis-hackathon.png
+    - /assets/img/orgs/volunteering/davis-hackathon-1.png
