@@ -47,7 +47,9 @@ pagination:
     {% assign tags = post.tags | join: "" %}
     {% assign categories = post.categories | join: "" %}
 
-    <li>
+    <!-- Start : Commenting it for image thumbnail logic -->
+     
+    <!-- <li>
       <h3>
         {% if post.redirect == blank %}
           <a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -64,16 +66,42 @@ pagination:
       </h3>
       <p>{{ post.description }}</p>
       <p class="post-meta">
-        <!-- {{ read_time }} min read &nbsp; &middot; &nbsp;
-        {{ post.date | date: '%B %-d, %Y' }}
-        {%- if post.external_source %}
-        &nbsp; &middot; &nbsp; {{ post.external_source }}
-        {%- endif %} -->
          {%- unless post.redirect -%}
             {{ read_time }} min read &nbsp; &middot; &nbsp;
           {%- endunless -%}
           {{ post.date | date: '%B %-d, %Y' }}
-      </p>
+      </p> -->
+
+      <li class="blog-entry">
+        {% if post.image %}
+        <div class="blog-thumb">
+          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+        </div>
+        {% endif %}
+      
+        <div class="blog-content">
+          <h3>
+            {% if post.redirect == blank %}
+            <a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            {% else %}
+            <a class="post-title" href="{{ post.redirect }}" target="_blank">{{ post.title }}</a>
+            <svg width="2rem" height="2rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+              <path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5"
+                fill="none" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+            {% endif %}
+          </h3>
+      
+          <p>{{ post.description }}</p>
+      
+          <p class="post-meta">
+            {% unless post.redirect %}{{ read_time }} min read &nbsp; &middot; &nbsp;{% endunless %}
+            {{ post.date | date: '%B %-d, %Y' }}
+          </p>
+        </div>
+      </li>
+<!-- Start : Commenting it for image thumbnail logic -->
+
       <p class="post-tags">
         <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">
           <i class="fas fa-calendar fa-sm"></i> {{ year }} </a>

@@ -1046,4 +1046,30 @@ pre {
   line-height: 1.5;
 }
 
+/* ==== Posts(My Blogs) Image Previews ==== */
+.blog-entry {
+  display: flex;
+  flex-direction: row;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
 
+  .blog-thumb img {
+    width: 160px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 6px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+
+  .blog-content {
+    flex: 1;
+  }
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+    .blog-thumb img {
+      width: 100%;
+      height: auto;
+    }
+  }
+}
