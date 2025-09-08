@@ -4,6 +4,25 @@
   year: "2025"
   logo: "/assets/img/orgs/globee.png"
   description: "Evaluated 250+ submissions in AI, cybersecurity, and digital transformation across global enterprise categories."
+  details: |
+    <p>I served as a <strong>Judge</strong> at the <strong>2025 Globee Awards</strong>, one of the most prestigious global award platforms for recognizing excellence in business and technology. I reviewed and evaluated over 250+ high-quality nominations across categories including:</p>
+
+    <ul>
+      <li><strong>Artificial Intelligence</strong></li>
+      <li><strong>Cybersecurity</strong></li>
+      <li><strong>Disruptors</strong></li>
+      <li><strong>Technology Innovation</strong></li>
+      <li><strong>Digital Transformation</strong></li>
+    </ul>
+
+    <p>My role involved carefully assessing innovation impact, technical soundness, and organizational excellence, ensuring fair and thoughtful judgment among international entries. This judging experience not only enhanced my perspective as a <strong>Technical Program Committee Member</strong> but also aligned with my mission to support <strong>global technology recognition and mentoring</strong>.</p>
+  download_link: /assets/pdf/orgs/volunteering/globee_certificate.pdf
+  gallery:
+    - /assets/img/orgs/volunteering/globee_disruptors.png
+    - /assets/img/orgs/volunteering/globee_technology.png
+    - /assets/img/orgs/volunteering/globee_cybersecurity.png
+    - /assets/img/orgs/volunteering/globee_customer_excellence.png
+    - /assets/img/orgs/volunteering/globee_ai.png
 
 - title: "Judge – NASA Space Apps Challenge 2025"
   organization: "NASA Space Apps Challenge"
