@@ -20,7 +20,7 @@ Recognized by BCS for professional membership in the global IT community, contri
     </div>
 </div>
 <div class="caption">
-    My IEEE Contributions.
+    My BCS Contributions.
 </div>
 
 <div class="caption">
