@@ -6,10 +6,11 @@ description: <strong>  Empowering Innovation Worldwide Through Mentoring, Judgin
 nav: true
 nav_order: 5
 ---
-
-<p style="max-width: 720px; margin: 2rem auto 1rem; text-align: center;">
+<div style="text-align: center; margin-top: 2rem;">
+<p style="margin: 2rem auto 1rem; text-align: left;">
 Over the years, I’ve had the privilege of contributing to the global tech ecosystem through mentorship, judging, public speaking, and technical program leadership. As a mentor on platforms like <strong>ADPList</strong>, I offer one-on-one guidance to professionals and students navigating career transitions and engineering challenges. I actively serve as a judge for global competitions and awards, and as a <strong>Technical Program Committee (TPC)</strong> reviewer for prestigious conferences under <strong>IEEE</strong>, <strong>Springer</strong>, and other international research bodies — helping shape the future of innovation, one review at a time.
 </p>
+</div>
 
 <div style="margin-top: 3rem;"></div>
 <hr style="margin: 3rem auto; max-width: 700px; border: none; border-top: 1px solid #eee;" />
@@ -17,7 +18,7 @@ Over the years, I’ve had the privilege of contributing to the global tech ecos
 <!-- ADPList Mentorship Section -->
 <div style="text-align: center; margin-top: 2rem;">
   <h2 style="font-size: 2rem; margin-bottom: 0.5rem;">ADPList Mentorship</h2>
-  <p style="text-align: center; margin-top: 2rem;">
+  <p style="text-align: left; margin-top: 2rem;">
     Mentorship isn’t just guidance — it’s about unlocking someone’s potential. Through ADPList, I aim to empower mentees with insights, career direction, and the confidence to succeed in tech and beyond.
   </p>
 </div>
@@ -70,7 +71,7 @@ Over the years, I’ve had the privilege of contributing to the global tech ecos
       <p class="vol-org"><strong>{{ item.organization }}</strong> ・ {{ item.year }}</p>
       <p class="vol-desc">{{ item.description }}</p>
 
-      <a href="#" class="more-details-link" data-modal="modal-{{ forloop.index }}">Click here for more details</a>
+      <a href="#" class="more-details-link" data-modal="modal-{{ forloop.index }}">More details..</a>
     </div>
   </div>
 
