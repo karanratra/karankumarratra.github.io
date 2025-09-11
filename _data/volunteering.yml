@@ -71,6 +71,20 @@
   year: "2024"
   description: "Mentored and judged at CalHacks 11.0, the world’s largest collegiate hackathon hosted at UC Berkeley. Evaluated over 300 student projects across categories including AI, accessibility, and sustainability. Provided mentorship throughout the event and contributed to finalist selection and awards."
   logo:  "/assets/img/orgs/calhacks-logo.png"
+  details: |
+      <p>In 2024, I served as a <strong>Mentor and Judge at CalHacks 11.0</strong>, the world’s largest collegiate hackathon hosted by the University of California, Berkeley. The event brought together over 2,000 hackers, 300+ projects, and participants representing more than 20 countries and 200 universities.</p>
+      
+      <p>As a mentor, I guided students in project ideation, technical architecture, and execution, helping teams transform their concepts into impactful solutions within the 36-hour hackathon window. As a judge, I evaluated projects on their technical depth, innovation, scalability, and real-world applicability, recognizing the most outstanding submissions. This experience reinforced my commitment to fostering creativity, collaboration, and technical excellence among the next generation of engineers and innovators.</p>
+  download_link: /assets/pdf/orgs/volunteering/cal-hacks11.pdf
+  gallery:
+    - /assets/img/orgs/volunteering/calhack-1.jpeg
+    - /assets/img/orgs/volunteering/calhack-2.jpeg
+    - /assets/img/orgs/volunteering/calhack-3.jpeg
+    - /assets/img/orgs/volunteering/calhack-4.jpeg
+    - /assets/img/orgs/volunteering/calhack-5.jpeg
+    - /assets/img/orgs/volunteering/calhack-6.jpeg
+    - /assets/img/orgs/volunteering/calhack-7.jpeg
+    - /assets/img/orgs/volunteering/calhack-8.jpeg
 
 - title: "Judge – Hackabyte 2024"
   organization: "The Hack Foundation"
