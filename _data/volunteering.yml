@@ -47,6 +47,22 @@
   year: 2025
   logo: "/assets/img/orgs/hackdavis-logo.png"
   description: "Served as a Judge at HackDavis 2025, UC Davis premier collegiate hackathon. Evaluated technical projects submitted by students across various domains including sustainability, health, and education. Contributed to finalist selections and provided actionable feedback to student teams."
+  details: |
+    <p>In 2025, I had the privilege of serving as both a <strong>Mentor and Judge at HackDavis</strong>, one of California’s largest student-run hackathons hosted annually at UC Davis. The event brought together some of the brightest student innovators from across the state to design and develop solutions addressing pressing social challenges through technology and creativity.</p>
+    <p>As a mentor, I guided participants in brainstorming, system design, and technical implementation, helping them shape their projects into impactful solutions within the 36-hour timeframe. As a judge, I evaluated submissions based on <em>innovation, clarity, technical execution, and real-world applicability</em>, and participated in live Q&A sessions with finalist teams. This dual role enabled me to support both the creation and evaluation of student-led innovations, contributing to HackDavis’ mission of fostering a culture of collaboration, social good, and technology-driven impact.</p>
+  download_link: /assets/pdf/orgs/volunteering/hackdavis.pdf
+  gallery:
+    - /assets/img/orgs/volunteering/HackDavis-1.png
+    - /assets/img/orgs/volunteering/HackDavis-2.png
+    - /assets/img/orgs/volunteering/HackDavis-3.png
+    - /assets/img/orgs/volunteering/HackDavis-4.png
+    - /assets/img/orgs/volunteering/HackDavis-5.png
+    - /assets/img/orgs/volunteering/HackDavis-6.png
+    - /assets/img/orgs/volunteering/HackDavis-7.png
+    - /assets/img/orgs/volunteering/HackDavis-8.png
+    - /assets/img/orgs/volunteering/HackDavis-9.png
+
+
   
 - title: "Judge – HackMIT 2024"
   organization: "Massachusetts Institute of Technology"
@@ -59,12 +75,49 @@
   year: "2024"
   logo: "/assets/img/orgs/harvard.png"
   description: "Guided students through system design, microservices, and product thinking for impactful hackathon submissions."
+  details: |
+      <p>In 2024, I had the honor of serving as both a <strong>Mentor and Judge at HackHarvard</strong>, Harvard University’s flagship hackathon that brought together over 1,200 students from 284 universities across 20+ countries. The 35-hour event provided an exciting platform for students to showcase creativity, technical depth, and problem-solving skills under high-pressure conditions.</p>
+
+      <p>As a mentor, I guided student teams through project ideation, architecture design, and implementation strategies, helping them transform early concepts into impactful solutions. As a judge, I evaluated projects across multiple rounds based on <em>innovation, usability, technical execution, and real-world applicability</em>. I also participated in finalist Q&A sessions, offering constructive feedback to enhance learning and encourage future innovation. This experience allowed me to contribute meaningfully to nurturing the next generation of engineers, leaders, and innovators while reinforcing the values of collaboration and excellence in technology.</p>
+  download_link: /assets/pdf/orgs/volunteering/hackharvard.pdf
+  gallery:
+    - /assets/img/orgs/volunteering/Hackharvard-1.jpeg
+    - /assets/img/orgs/volunteering/Hackharvard-2.jpeg
+    - /assets/img/orgs/volunteering/Hackharvard-3.jpeg
+    - /assets/img/orgs/volunteering/Hackharvard-4.jpeg
+    - /assets/img/orgs/volunteering/Hackharvard-5.jpeg
+    - /assets/img/orgs/volunteering/Hackharvard-6.jpeg
+    - /assets/img/orgs/volunteering/Hackharvard-7.jpeg
+    - /assets/img/orgs/volunteering/Hackharvard-8.jpeg
+    - /assets/img/orgs/volunteering/Hackharvard-9.jpeg
 
 - title: "Mentor & Judge – HackPrinceton 2024"
   organization: "Princeton University"
   year: "2024"
   logo: "/assets/img/orgs/princeton.png"
-  description: "Served as both Mentor and Judge at HackPrinceton 2024. Guided participants on technical strategy and project development, and evaluated hackathon submissions for innovation, execution, and impact."
+  description: "Served as a Judge at HackPrinceton 2024. Guided participants on technical strategy and project development, and evaluated hackathon submissions for innovation, execution, and impact."
+  details: |
+     <p>In Fall 2024, I served as a <strong>Judge at HackPrinceton (HackHeist)</strong>, Princeton University’s premier hackathon that brought together over 150 participants from universities worldwide. The 36-hour event, hosted on Princeton’s campus at Robertson Hall, challenged students to build innovative, impactful, and technically rigorous solutions across diverse tracks such as <em>Education, Healthcare, Environment, and AI-driven innovation</em>.</p>
+    
+     <p>As a judge, I evaluated projects across multiple rounds using criteria including <em>creativity, utility, societal impact, and passion</em>. I participated in live demos and Q&A sessions with finalist teams, providing feedback to help students refine their work and strengthen their technical and problem-solving approaches. By recognizing outstanding submissions and mentoring through the judging process, I contributed to fostering innovation, collaboration, and excellence among the next generation of engineers and entrepreneurs.</p>
+
+  download_link: /assets/pdf/orgs/volunteering/hackprinceton.png
+  gallery:
+    - /assets/img/orgs/volunteering/hackprinceton-1.jpeg
+    - /assets/img/orgs/volunteering/hackprinceton-2.jpeg
+    - /assets/img/orgs/volunteering/hackprinceton-3.jpeg
+    - /assets/img/orgs/volunteering/hackprinceton-4.jpeg
+    - /assets/img/orgs/volunteering/hackprinceton-5.jpeg
+    - /assets/img/orgs/volunteering/hackprinceton-6.jpeg
+    - /assets/img/orgs/volunteering/hackprinceton-7.jpeg
+    - /assets/img/orgs/volunteering/hackprinceton-8.jpeg
+    - /assets/img/orgs/volunteering/hackprinceton-9.jpeg
+    - /assets/img/orgs/volunteering/hackprinceton-10.jpeg
+    - /assets/img/orgs/volunteering/hackprinceton-11.jpeg
+    - /assets/img/orgs/volunteering/hackprinceton-12.jpeg
+    - /assets/img/orgs/volunteering/hackprinceton-13.jpeg
+    - /assets/img/orgs/volunteering/hackprinceton-14.jpeg
+    - /assets/img/orgs/volunteering/hackprinceton-15.jpeg
 
 - title: "Mentor & Judge – CalHacks 11.0 2024"
   organization: "CalHacks (UC Berkeley)"
@@ -91,6 +144,12 @@
   year: "2024"
   logo: "/assets/img/orgs/hackabyte-logo.png"
   description: "Judged at Hackabyte Summer Hackathon 2024. Evaluated student-led technical projects on innovation, creativity, clarity, and real-world impact across multiple rounds. Participated in finalist Q&A sessions and provided feedback for student learning."
+  details: |
+      <p>In 2024, I served as a <strong>Judge for the Hackabyte Summer Hackathon</strong>, organized by The Hack Foundation. This event brought together talented student innovators to design and build impactful technical projects in a competitive, collaborative environment.</p>
+
+      <p>My role involved evaluating projects across multiple judging rounds based on <em>innovation, creativity, clarity, and real-world applicability</em>. I also participated in finalist Q&A sessions, offering constructive feedback to help students refine their ideas and strengthen their technical execution. By contributing to this event, I supported the next generation of engineers and entrepreneurs in gaining practical experience, building confidence, and advancing their problem-solving skills through hands-on innovation.</p>
+      
+  download_link: /assets/pdf/orgs/volunteering/hackabyte.pdf
   
 # MENTORING
 - title: "Top 1% Mentor – ADPList (Engineering) 2025"
