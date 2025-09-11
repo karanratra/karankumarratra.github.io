@@ -35,12 +35,47 @@
   year: "2025"
   logo: "/assets/img/orgs/treehacks.png"
   description: "As a Mentor at TreeHack, Stanford University's premier hackathon, I have dedicated my expertise and time to guiding and inspiring participants."
+  details: |
+    <p>In February of 2025, I served as an official <strong>Mentor at TreeHacks</strong>, Stanford University’s largest and most prestigious hackathon, which brought together over 1,000 of the world’s most talented student innovators. Sponsored by leading organizations such as Nvidia, OpenAI, Google, and Tesla, TreeHacks has become a global hub for bold ideas and transformative innovation.</p>
+
+    <p>Throughout the 36-hour event, I provided critical technical guidance, project development advice, and industry insights to multiple student teams, helping them overcome challenges and strengthen the scalability and impact of their projects. My contributions as a mentor enhanced the educational value of the hackathon and empowered students to transform ambitious ideas into real-world technology. Supporting TreeHacks allowed me to give back to the student innovation community at one of the most influential collegiate hackathons in the world.</p>
+  download_link: /assets/pdf/orgs/volunteering/globee_certificate.pdf
+  gallery:
+    - /assets/img/orgs/volunteering/treehacks-1.png
+    - /assets/img/orgs/volunteering/treehacks-2.png
+    - /assets/img/orgs/volunteering/treehacks-3.png
+    - /assets/img/orgs/volunteering/treehacks-4.png
+    - /assets/img/orgs/volunteering/treehacks-5.png
+    - /assets/img/orgs/volunteering/treehacks-6.png
 
 - title: "Judge – LA Hacks 2025"
   organization: "University of Californa Los Angeles"
   year: "2025"
   logo: "/assets/img/orgs/ucla.png"
   description: "As a Judge at LA Hacks, UCLA's premier hackathon, I had the privilege of evaluating innovative projects developed by talented participants."
+  details: |
+    <p>In April 2025, I had the privilege of serving as a <strong>Judge for the LA Hacks Global Hackathon</strong>, one of the largest and most impactful hackathons in the world. My role involved evaluating innovative projects from diverse teams, assessing them on originality, technical complexity, scalability, and real-world impact.</p>
+
+    <p>By providing thoughtful feedback and constructive guidance, I helped shape the journeys of countless participants, inspiring creativity, collaboration, and bold ideas. My involvement not only ensured a fair and rigorous evaluation process but also reinforced my commitment to fostering emerging talent and driving innovation at a global scale.</p>
+
+  download_link: /assets/pdf/orgs/volunteering/LA-Hacks-Certificate.pdf
+  gallery:
+    - /assets/img/orgs/volunteering/LA-Hacks-1.png
+    - /assets/img/orgs/volunteering/LA-Hacks-2.png
+    - /assets/img/orgs/volunteering/LA-Hacks-3.png
+    - /assets/img/orgs/volunteering/LA-Hacks-4.png
+    - /assets/img/orgs/volunteering/LA-Hacks-5.png
+    - /assets/img/orgs/volunteering/LA-Hacks-6.png
+    - /assets/img/orgs/volunteering/LA-Hacks-7.png
+    - /assets/img/orgs/volunteering/LA-Hacks-8.png
+    - /assets/img/orgs/volunteering/LA-Hacks-9.png
+    - /assets/img/orgs/volunteering/LA-Hacks-10.png
+    - /assets/img/orgs/volunteering/LA-Hacks-11.png
+    - /assets/img/orgs/volunteering/LA-Hacks-12.png
+    - /assets/img/orgs/volunteering/LA-Hacks-13.png
+    - /assets/img/orgs/volunteering/LA-Hacks-14.png
+    - /assets/img/orgs/volunteering/LA-Hacks-15.png
+    - /assets/img/orgs/volunteering/LA-Hacks-16.png
  
 - title: Judge – HackDavis 2025
   organization: HackDavis
