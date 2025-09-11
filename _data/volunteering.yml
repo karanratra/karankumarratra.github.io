@@ -84,7 +84,17 @@
   year: "2025"
   logo: "/assets/img/orgs/adplist.png"
   description: "Recognized among Top 1% Mentors worldwide. Delivered 1,000+ minutes of mentorship across 20+ countries."
+  details: |
+    <p>As a <strong>Top 1% Mentor on ADPList (Engineering)</strong>, I am privileged to guide and empower engineers, aspiring leaders, and professionals across the globe. Through one-on-one mentorship sessions, I provide career guidance, technical insights, and architectural best practices that help mentees navigate challenges in software engineering, leadership, and system design.</p>
 
+    <p>On the ADPList platform—home to over 16,000 mentors and 100,000 mentees from 140+ countries—I have contributed thousands of mentorship minutes, creating a measurable impact on the professional journeys of engineers worldwide. My focus is not only on solving immediate problems but also on instilling long-term strategies for growth, leadership, and innovation.</p>
+
+    <p>By sharing knowledge drawn from <strong>16+ years in e-commerce, fintech, and telecom industries</strong>, I help mentees build scalable solutions, strengthen leadership skills, and gain confidence in their career paths. This recognition as a Top 1% Mentor reflects my deep commitment to giving back to the engineering community, enabling the next generation of leaders to thrive in an ever-evolving technology landscape.</p>
+  gallery:
+    - /assets/img/orgs/volunteering/top-50-mentor.png
+    - /assets/img/orgs/volunteering/top-50-mentor-2.png
+    - /assets/img/orgs/volunteering/top-10-mentor.png
+    - /assets/img/orgs/volunteering/1000-mentorship-minutes.png
 
 # REVIEWING
 - title: "Reviewer – IEEE WISPNet 2025"
@@ -92,12 +102,43 @@
   year: "2025"
   logo: "/assets/img/orgs/ieee.png"
   description: "Peer reviewer for SAFE-ML track. Evaluated papers on secure AI architectures, edge computing, and ML inference systems."
+  download_link: /assets/pdf/orgs/volunteering/wispnet2025.pdf
+  details: |
+    <p>As a Technical Paper Reviewer for the 10th IEEE International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET 2025), I was honored to contribute to one of the most impactful interdisciplinary forums at the convergence of wireless systems, signal processing, and secure AI at the edge.
 
-- title: "Reviewer – Springer Journal of Cloud Computing"
-  organization: "Springer Nature"
+    Hosted by Sri Sivasubramaniya Nadar College of Engineering, <a href="https://wispnet2025.vercel.app/#" target="_blank" rel="noopener" style="color:#0073e6; text-decoration:#0073e6; font-weight:500;" > WiSPNET 2025 is technically co-sponsored by IEEE </a> and brings together researchers, engineers, and innovators from across the globe. Held from February 20–22, 2025, the conference focuses on shaping the future of wireless and edge technologies through both online and in-person keynote addresses, expert panels, and research presentations.
+
+    In my role, I evaluated submissions in the SAFE-ML track (Secure AI for Edge – Machine Learning), assessing each paper’s originality, technical depth, real-world applicability, and potential impact on secure edge deployments. My involvement ensured only the highest quality research was selected for presentation and publication, upholding the IEEE standard of technical excellence.
+
+    This experience reinforced my ongoing commitment to:
+    <ul>
+      <li><strong>Advancing the research frontier in secure, intelligent edge systems.</strong></li>
+      <li><strong>Supporting the academic and practitioner community in machine learning for wireless and embedded systems.</strong></li>
+      <li><strong>Fostering global collaboration through IEEE’s peer-reviewed knowledge-sharing platforms.</strong></li>
+    </ul>
+    </p>
+
+- title: "Reviewer – Manning Publications"
+  organization: "Manning Publications"
   year: "2024"
-  logo: "/assets/img/orgs/springer.png"
-  description: "Reviewed research articles on event-driven architecture, scalable microservices, and hybrid cloud orchestration."
+  logo: "/assets/img/orgs/manning.png"
+  description: "Reviewed books and articles on event-driven architecture, scalable microservices, and hybrid cloud orchestration."
+  details: |
+    <p>As a Technical Reviewer for Manning Publications, I have had the privilege of contributing to the development of high-quality educational content in the field of software architecture and cloud computing. My role involves critically evaluating manuscripts, articles, and book drafts to ensure technical accuracy, clarity, and relevance for readers ranging from aspiring developers to seasoned architects.</p>
+
+    <p>My reviews have focused on topics such as:
+    <ul>
+      <li><strong>Event-Driven Architecture</strong>: Assessing content that explores the principles and implementation strategies for building responsive, scalable systems using event-driven patterns.</li>
+      <li><strong>Scalable Microservices</strong>: Evaluating materials that delve into designing, deploying, and managing microservices architectures that can efficiently handle growth and complexity.</li>
+      <li><strong>Hybrid Cloud Orchestration</strong>: Reviewing works that provide insights into orchestrating workloads across public and private cloud environments, ensuring seamless integration and management.</li>
+    </ul>
+    </p>
+
+    <p>Through this experience, I have been able to stay at the forefront of emerging trends in software architecture while helping to shape resources that empower developers and architects worldwide. My contributions as a reviewer reflect my commitment to fostering knowledge sharing and continuous learning within the tech community.</p>
+    
+    <p>Some of the notable books I have reviewed include <em>Data-Oriented Design for Games Book</em>, <em>Java Logging with Log4j2</em>, and <em>Secure APIs</em>. By evaluating these works from both a practitioner’s and a leader’s perspective, I help authors refine their content to meet the needs of modern software professionals. This experience not only strengthens the quality of published material but also allows me to give back to the engineering community by shaping resources that inspire learning and innovation.</p>
+
+  
 
 # SPEAKING
 - title: "Keynote Speaker – Fremont Youth Commission - 2024"
